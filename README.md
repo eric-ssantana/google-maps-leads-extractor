@@ -1,5 +1,3 @@
-<img width="1905" height="767" alt="Captura de tela 2026-05-21 201326" src="https://github.com/user-attachments/assets/217ec82d-6c3f-4725-b45c-b9393f9a8543" />
-<img width="1271" height="295" alt="Captura de tela 2026-05-21 201350" src="https://github.com/user-attachments/assets/8f0783a7-1566-48ec-becb-9052d38fc42f" />
 # Google Maps Leads Extractor & Qualifier 🚀
 
 Uma solução inteligente de automação desenvolvida em **Google Apps Script** integrada ao **Google Sheets**, projetada para acelerar a prospecção B2B. A ferramenta utiliza a API oficial do Google Maps para extrair leads qualificados com base em segmento e geolocalização, aplicando uma camada de inteligência de dados para classificar a maturidade digital de cada empresa.
@@ -34,3 +32,7 @@ Diferente de extratores comuns que apenas acumulam dados brutos, esta automaçã
 4. Substitua a constante de configuração pela sua chave de API gerada no Google Cloud Platform:
    ```javascript
    const GOOGLE_MAPS_API_KEY = 'SUA_CHAVE_AQUI';
+
+<img width="1271" height="295" alt="Captura de tela 2026-05-21 201350" src="https://github.com/user-attachments/assets/8f0783a7-1566-48ec-becb-9052d38fc42f" />
+<img width="1905" height="767" alt="Captura de tela 2026-05-21 201326" src="https://github.com/user-attachments/assets/217ec82d-6c3f-4725-b45c-b9393f9a8543" />
+
